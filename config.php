@@ -1,7 +1,7 @@
 <?
 // --------------------------------------------------------------------------------
 //|"lisk pay 2 enter - key in reference" by korben3, released under the MIT license|
-//|   If you like this software, please consider a donation: 1166067025826410207L  |
+//|   If you like this software, please consider a donation: 7851760003822400855L  |
 // --------------------------------------------------------------------------------
 //
 $title="Lisk Pay 2 Enter - key in reference - Hot Cars"; //website title
